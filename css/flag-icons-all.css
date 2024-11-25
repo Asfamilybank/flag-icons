@@ -1,0 +1,1908 @@
+.fib, .fi {
+  background-size: contain;
+  background-position: 50%;
+  background-repeat: no-repeat;
+}
+
+.fi {
+  position: relative;
+  display: inline-block;
+  width: 1.333333em;
+  line-height: 1em;
+}
+.fi:before {
+  content: " ";
+}
+.fi.fis {
+  width: 1em;
+}
+
+.fi-xx, .fi-xxx, .fi-000 {
+  background-image: url(../flags/4x3/xx.svg);
+}
+.fi-xx.fis, .fi-xxx.fis, .fi-000.fis {
+  background-image: url(../flags/1x1/xx.svg);
+}
+
+.fi-ad, .fi-and, .fi-020 {
+  background-image: url(../flags/4x3/ad.svg);
+}
+.fi-ad.fis, .fi-and.fis, .fi-020.fis {
+  background-image: url(../flags/1x1/ad.svg);
+}
+
+.fi-ae, .fi-are, .fi-784 {
+  background-image: url(../flags/4x3/ae.svg);
+}
+.fi-ae.fis, .fi-are.fis, .fi-784.fis {
+  background-image: url(../flags/1x1/ae.svg);
+}
+
+.fi-af, .fi-afg, .fi-004 {
+  background-image: url(../flags/4x3/af.svg);
+}
+.fi-af.fis, .fi-afg.fis, .fi-004.fis {
+  background-image: url(../flags/1x1/af.svg);
+}
+
+.fi-ag, .fi-atg, .fi-028 {
+  background-image: url(../flags/4x3/ag.svg);
+}
+.fi-ag.fis, .fi-atg.fis, .fi-028.fis {
+  background-image: url(../flags/1x1/ag.svg);
+}
+
+.fi-ai, .fi-aia, .fi-660 {
+  background-image: url(../flags/4x3/ai.svg);
+}
+.fi-ai.fis, .fi-aia.fis, .fi-660.fis {
+  background-image: url(../flags/1x1/ai.svg);
+}
+
+.fi-al, .fi-alb, .fi-008 {
+  background-image: url(../flags/4x3/al.svg);
+}
+.fi-al.fis, .fi-alb.fis, .fi-008.fis {
+  background-image: url(../flags/1x1/al.svg);
+}
+
+.fi-am, .fi-arm, .fi-051 {
+  background-image: url(../flags/4x3/am.svg);
+}
+.fi-am.fis, .fi-arm.fis, .fi-051.fis {
+  background-image: url(../flags/1x1/am.svg);
+}
+
+.fi-ao, .fi-ago, .fi-024 {
+  background-image: url(../flags/4x3/ao.svg);
+}
+.fi-ao.fis, .fi-ago.fis, .fi-024.fis {
+  background-image: url(../flags/1x1/ao.svg);
+}
+
+.fi-aq, .fi-ata, .fi-010 {
+  background-image: url(../flags/4x3/aq.svg);
+}
+.fi-aq.fis, .fi-ata.fis, .fi-010.fis {
+  background-image: url(../flags/1x1/aq.svg);
+}
+
+.fi-ar, .fi-arg, .fi-032 {
+  background-image: url(../flags/4x3/ar.svg);
+}
+.fi-ar.fis, .fi-arg.fis, .fi-032.fis {
+  background-image: url(../flags/1x1/ar.svg);
+}
+
+.fi-as, .fi-asm, .fi-016 {
+  background-image: url(../flags/4x3/as.svg);
+}
+.fi-as.fis, .fi-asm.fis, .fi-016.fis {
+  background-image: url(../flags/1x1/as.svg);
+}
+
+.fi-at, .fi-aut, .fi-040 {
+  background-image: url(../flags/4x3/at.svg);
+}
+.fi-at.fis, .fi-aut.fis, .fi-040.fis {
+  background-image: url(../flags/1x1/at.svg);
+}
+
+.fi-au, .fi-aus, .fi-036 {
+  background-image: url(../flags/4x3/au.svg);
+}
+.fi-au.fis, .fi-aus.fis, .fi-036.fis {
+  background-image: url(../flags/1x1/au.svg);
+}
+
+.fi-aw, .fi-abw, .fi-533 {
+  background-image: url(../flags/4x3/aw.svg);
+}
+.fi-aw.fis, .fi-abw.fis, .fi-533.fis {
+  background-image: url(../flags/1x1/aw.svg);
+}
+
+.fi-ax, .fi-ala, .fi-248 {
+  background-image: url(../flags/4x3/ax.svg);
+}
+.fi-ax.fis, .fi-ala.fis, .fi-248.fis {
+  background-image: url(../flags/1x1/ax.svg);
+}
+
+.fi-az, .fi-aze, .fi-031 {
+  background-image: url(../flags/4x3/az.svg);
+}
+.fi-az.fis, .fi-aze.fis, .fi-031.fis {
+  background-image: url(../flags/1x1/az.svg);
+}
+
+.fi-ba, .fi-bih, .fi-070 {
+  background-image: url(../flags/4x3/ba.svg);
+}
+.fi-ba.fis, .fi-bih.fis, .fi-070.fis {
+  background-image: url(../flags/1x1/ba.svg);
+}
+
+.fi-bb, .fi-brb, .fi-052 {
+  background-image: url(../flags/4x3/bb.svg);
+}
+.fi-bb.fis, .fi-brb.fis, .fi-052.fis {
+  background-image: url(../flags/1x1/bb.svg);
+}
+
+.fi-bd, .fi-bgd, .fi-050 {
+  background-image: url(../flags/4x3/bd.svg);
+}
+.fi-bd.fis, .fi-bgd.fis, .fi-050.fis {
+  background-image: url(../flags/1x1/bd.svg);
+}
+
+.fi-be, .fi-bel, .fi-056 {
+  background-image: url(../flags/4x3/be.svg);
+}
+.fi-be.fis, .fi-bel.fis, .fi-056.fis {
+  background-image: url(../flags/1x1/be.svg);
+}
+
+.fi-bf, .fi-bfa, .fi-854 {
+  background-image: url(../flags/4x3/bf.svg);
+}
+.fi-bf.fis, .fi-bfa.fis, .fi-854.fis {
+  background-image: url(../flags/1x1/bf.svg);
+}
+
+.fi-bg, .fi-bgr, .fi-100 {
+  background-image: url(../flags/4x3/bg.svg);
+}
+.fi-bg.fis, .fi-bgr.fis, .fi-100.fis {
+  background-image: url(../flags/1x1/bg.svg);
+}
+
+.fi-bh, .fi-bhr, .fi-048 {
+  background-image: url(../flags/4x3/bh.svg);
+}
+.fi-bh.fis, .fi-bhr.fis, .fi-048.fis {
+  background-image: url(../flags/1x1/bh.svg);
+}
+
+.fi-bi, .fi-bdi, .fi-108 {
+  background-image: url(../flags/4x3/bi.svg);
+}
+.fi-bi.fis, .fi-bdi.fis, .fi-108.fis {
+  background-image: url(../flags/1x1/bi.svg);
+}
+
+.fi-bj, .fi-ben, .fi-204 {
+  background-image: url(../flags/4x3/bj.svg);
+}
+.fi-bj.fis, .fi-ben.fis, .fi-204.fis {
+  background-image: url(../flags/1x1/bj.svg);
+}
+
+.fi-bl, .fi-blm, .fi-652 {
+  background-image: url(../flags/4x3/bl.svg);
+}
+.fi-bl.fis, .fi-blm.fis, .fi-652.fis {
+  background-image: url(../flags/1x1/bl.svg);
+}
+
+.fi-bm, .fi-bmu, .fi-060 {
+  background-image: url(../flags/4x3/bm.svg);
+}
+.fi-bm.fis, .fi-bmu.fis, .fi-060.fis {
+  background-image: url(../flags/1x1/bm.svg);
+}
+
+.fi-bn, .fi-brn, .fi-096 {
+  background-image: url(../flags/4x3/bn.svg);
+}
+.fi-bn.fis, .fi-brn.fis, .fi-096.fis {
+  background-image: url(../flags/1x1/bn.svg);
+}
+
+.fi-bo, .fi-bol, .fi-068 {
+  background-image: url(../flags/4x3/bo.svg);
+}
+.fi-bo.fis, .fi-bol.fis, .fi-068.fis {
+  background-image: url(../flags/1x1/bo.svg);
+}
+
+.fi-bq, .fi-bes, .fi-535 {
+  background-image: url(../flags/4x3/bq.svg);
+}
+.fi-bq.fis, .fi-bes.fis, .fi-535.fis {
+  background-image: url(../flags/1x1/bq.svg);
+}
+
+.fi-br, .fi-bra, .fi-076 {
+  background-image: url(../flags/4x3/br.svg);
+}
+.fi-br.fis, .fi-bra.fis, .fi-076.fis {
+  background-image: url(../flags/1x1/br.svg);
+}
+
+.fi-bs, .fi-bhs, .fi-044 {
+  background-image: url(../flags/4x3/bs.svg);
+}
+.fi-bs.fis, .fi-bhs.fis, .fi-044.fis {
+  background-image: url(../flags/1x1/bs.svg);
+}
+
+.fi-bt, .fi-btn, .fi-064 {
+  background-image: url(../flags/4x3/bt.svg);
+}
+.fi-bt.fis, .fi-btn.fis, .fi-064.fis {
+  background-image: url(../flags/1x1/bt.svg);
+}
+
+.fi-bv, .fi-bvt, .fi-074 {
+  background-image: url(../flags/4x3/bv.svg);
+}
+.fi-bv.fis, .fi-bvt.fis, .fi-074.fis {
+  background-image: url(../flags/1x1/bv.svg);
+}
+
+.fi-bw, .fi-bwa, .fi-072 {
+  background-image: url(../flags/4x3/bw.svg);
+}
+.fi-bw.fis, .fi-bwa.fis, .fi-072.fis {
+  background-image: url(../flags/1x1/bw.svg);
+}
+
+.fi-by, .fi-blr, .fi-112 {
+  background-image: url(../flags/4x3/by.svg);
+}
+.fi-by.fis, .fi-blr.fis, .fi-112.fis {
+  background-image: url(../flags/1x1/by.svg);
+}
+
+.fi-bz, .fi-blz, .fi-084 {
+  background-image: url(../flags/4x3/bz.svg);
+}
+.fi-bz.fis, .fi-blz.fis, .fi-084.fis {
+  background-image: url(../flags/1x1/bz.svg);
+}
+
+.fi-ca, .fi-can, .fi-124 {
+  background-image: url(../flags/4x3/ca.svg);
+}
+.fi-ca.fis, .fi-can.fis, .fi-124.fis {
+  background-image: url(../flags/1x1/ca.svg);
+}
+
+.fi-cc, .fi-cck, .fi-166 {
+  background-image: url(../flags/4x3/cc.svg);
+}
+.fi-cc.fis, .fi-cck.fis, .fi-166.fis {
+  background-image: url(../flags/1x1/cc.svg);
+}
+
+.fi-cd, .fi-cod, .fi-180 {
+  background-image: url(../flags/4x3/cd.svg);
+}
+.fi-cd.fis, .fi-cod.fis, .fi-180.fis {
+  background-image: url(../flags/1x1/cd.svg);
+}
+
+.fi-cf, .fi-caf, .fi-140 {
+  background-image: url(../flags/4x3/cf.svg);
+}
+.fi-cf.fis, .fi-caf.fis, .fi-140.fis {
+  background-image: url(../flags/1x1/cf.svg);
+}
+
+.fi-cg, .fi-cog, .fi-178 {
+  background-image: url(../flags/4x3/cg.svg);
+}
+.fi-cg.fis, .fi-cog.fis, .fi-178.fis {
+  background-image: url(../flags/1x1/cg.svg);
+}
+
+.fi-ch, .fi-che, .fi-756 {
+  background-image: url(../flags/4x3/ch.svg);
+}
+.fi-ch.fis, .fi-che.fis, .fi-756.fis {
+  background-image: url(../flags/1x1/ch.svg);
+}
+
+.fi-ci, .fi-civ, .fi-384 {
+  background-image: url(../flags/4x3/ci.svg);
+}
+.fi-ci.fis, .fi-civ.fis, .fi-384.fis {
+  background-image: url(../flags/1x1/ci.svg);
+}
+
+.fi-ck, .fi-cok, .fi-184 {
+  background-image: url(../flags/4x3/ck.svg);
+}
+.fi-ck.fis, .fi-cok.fis, .fi-184.fis {
+  background-image: url(../flags/1x1/ck.svg);
+}
+
+.fi-cl, .fi-chl, .fi-152 {
+  background-image: url(../flags/4x3/cl.svg);
+}
+.fi-cl.fis, .fi-chl.fis, .fi-152.fis {
+  background-image: url(../flags/1x1/cl.svg);
+}
+
+.fi-cm, .fi-cmr, .fi-120 {
+  background-image: url(../flags/4x3/cm.svg);
+}
+.fi-cm.fis, .fi-cmr.fis, .fi-120.fis {
+  background-image: url(../flags/1x1/cm.svg);
+}
+
+.fi-cn, .fi-chn, .fi-156 {
+  background-image: url(../flags/4x3/cn.svg);
+}
+.fi-cn.fis, .fi-chn.fis, .fi-156.fis {
+  background-image: url(../flags/1x1/cn.svg);
+}
+
+.fi-co, .fi-col, .fi-170 {
+  background-image: url(../flags/4x3/co.svg);
+}
+.fi-co.fis, .fi-col.fis, .fi-170.fis {
+  background-image: url(../flags/1x1/co.svg);
+}
+
+.fi-cr, .fi-cri, .fi-188 {
+  background-image: url(../flags/4x3/cr.svg);
+}
+.fi-cr.fis, .fi-cri.fis, .fi-188.fis {
+  background-image: url(../flags/1x1/cr.svg);
+}
+
+.fi-cu, .fi-cub, .fi-192 {
+  background-image: url(../flags/4x3/cu.svg);
+}
+.fi-cu.fis, .fi-cub.fis, .fi-192.fis {
+  background-image: url(../flags/1x1/cu.svg);
+}
+
+.fi-cv, .fi-cpv, .fi-132 {
+  background-image: url(../flags/4x3/cv.svg);
+}
+.fi-cv.fis, .fi-cpv.fis, .fi-132.fis {
+  background-image: url(../flags/1x1/cv.svg);
+}
+
+.fi-cw, .fi-cuw, .fi-531 {
+  background-image: url(../flags/4x3/cw.svg);
+}
+.fi-cw.fis, .fi-cuw.fis, .fi-531.fis {
+  background-image: url(../flags/1x1/cw.svg);
+}
+
+.fi-cx, .fi-cxr, .fi-162 {
+  background-image: url(../flags/4x3/cx.svg);
+}
+.fi-cx.fis, .fi-cxr.fis, .fi-162.fis {
+  background-image: url(../flags/1x1/cx.svg);
+}
+
+.fi-cy, .fi-cyp, .fi-196 {
+  background-image: url(../flags/4x3/cy.svg);
+}
+.fi-cy.fis, .fi-cyp.fis, .fi-196.fis {
+  background-image: url(../flags/1x1/cy.svg);
+}
+
+.fi-cz, .fi-cze, .fi-203 {
+  background-image: url(../flags/4x3/cz.svg);
+}
+.fi-cz.fis, .fi-cze.fis, .fi-203.fis {
+  background-image: url(../flags/1x1/cz.svg);
+}
+
+.fi-de, .fi-deu, .fi-276 {
+  background-image: url(../flags/4x3/de.svg);
+}
+.fi-de.fis, .fi-deu.fis, .fi-276.fis {
+  background-image: url(../flags/1x1/de.svg);
+}
+
+.fi-dj, .fi-dji, .fi-262 {
+  background-image: url(../flags/4x3/dj.svg);
+}
+.fi-dj.fis, .fi-dji.fis, .fi-262.fis {
+  background-image: url(../flags/1x1/dj.svg);
+}
+
+.fi-dk, .fi-dnk, .fi-208 {
+  background-image: url(../flags/4x3/dk.svg);
+}
+.fi-dk.fis, .fi-dnk.fis, .fi-208.fis {
+  background-image: url(../flags/1x1/dk.svg);
+}
+
+.fi-dm, .fi-dma, .fi-212 {
+  background-image: url(../flags/4x3/dm.svg);
+}
+.fi-dm.fis, .fi-dma.fis, .fi-212.fis {
+  background-image: url(../flags/1x1/dm.svg);
+}
+
+.fi-do, .fi-dom, .fi-214 {
+  background-image: url(../flags/4x3/do.svg);
+}
+.fi-do.fis, .fi-dom.fis, .fi-214.fis {
+  background-image: url(../flags/1x1/do.svg);
+}
+
+.fi-dz, .fi-dza, .fi-012 {
+  background-image: url(../flags/4x3/dz.svg);
+}
+.fi-dz.fis, .fi-dza.fis, .fi-012.fis {
+  background-image: url(../flags/1x1/dz.svg);
+}
+
+.fi-ec, .fi-ecu, .fi-218 {
+  background-image: url(../flags/4x3/ec.svg);
+}
+.fi-ec.fis, .fi-ecu.fis, .fi-218.fis {
+  background-image: url(../flags/1x1/ec.svg);
+}
+
+.fi-ee, .fi-est, .fi-233 {
+  background-image: url(../flags/4x3/ee.svg);
+}
+.fi-ee.fis, .fi-est.fis, .fi-233.fis {
+  background-image: url(../flags/1x1/ee.svg);
+}
+
+.fi-eg, .fi-egy, .fi-818 {
+  background-image: url(../flags/4x3/eg.svg);
+}
+.fi-eg.fis, .fi-egy.fis, .fi-818.fis {
+  background-image: url(../flags/1x1/eg.svg);
+}
+
+.fi-eh, .fi-esh, .fi-732 {
+  background-image: url(../flags/4x3/eh.svg);
+}
+.fi-eh.fis, .fi-esh.fis, .fi-732.fis {
+  background-image: url(../flags/1x1/eh.svg);
+}
+
+.fi-er, .fi-eri, .fi-232 {
+  background-image: url(../flags/4x3/er.svg);
+}
+.fi-er.fis, .fi-eri.fis, .fi-232.fis {
+  background-image: url(../flags/1x1/er.svg);
+}
+
+.fi-es, .fi-esp, .fi-724 {
+  background-image: url(../flags/4x3/es.svg);
+}
+.fi-es.fis, .fi-esp.fis, .fi-724.fis {
+  background-image: url(../flags/1x1/es.svg);
+}
+
+.fi-et, .fi-eth, .fi-231 {
+  background-image: url(../flags/4x3/et.svg);
+}
+.fi-et.fis, .fi-eth.fis, .fi-231.fis {
+  background-image: url(../flags/1x1/et.svg);
+}
+
+.fi-fi, .fi-fin, .fi-246 {
+  background-image: url(../flags/4x3/fi.svg);
+}
+.fi-fi.fis, .fi-fin.fis, .fi-246.fis {
+  background-image: url(../flags/1x1/fi.svg);
+}
+
+.fi-fj, .fi-fji, .fi-242 {
+  background-image: url(../flags/4x3/fj.svg);
+}
+.fi-fj.fis, .fi-fji.fis, .fi-242.fis {
+  background-image: url(../flags/1x1/fj.svg);
+}
+
+.fi-fk, .fi-flk, .fi-238 {
+  background-image: url(../flags/4x3/fk.svg);
+}
+.fi-fk.fis, .fi-flk.fis, .fi-238.fis {
+  background-image: url(../flags/1x1/fk.svg);
+}
+
+.fi-fm, .fi-fsm, .fi-583 {
+  background-image: url(../flags/4x3/fm.svg);
+}
+.fi-fm.fis, .fi-fsm.fis, .fi-583.fis {
+  background-image: url(../flags/1x1/fm.svg);
+}
+
+.fi-fo, .fi-fro, .fi-234 {
+  background-image: url(../flags/4x3/fo.svg);
+}
+.fi-fo.fis, .fi-fro.fis, .fi-234.fis {
+  background-image: url(../flags/1x1/fo.svg);
+}
+
+.fi-fr, .fi-fra, .fi-250 {
+  background-image: url(../flags/4x3/fr.svg);
+}
+.fi-fr.fis, .fi-fra.fis, .fi-250.fis {
+  background-image: url(../flags/1x1/fr.svg);
+}
+
+.fi-ga, .fi-gab, .fi-266 {
+  background-image: url(../flags/4x3/ga.svg);
+}
+.fi-ga.fis, .fi-gab.fis, .fi-266.fis {
+  background-image: url(../flags/1x1/ga.svg);
+}
+
+.fi-gb, .fi-gbr, .fi-826 {
+  background-image: url(../flags/4x3/gb.svg);
+}
+.fi-gb.fis, .fi-gbr.fis, .fi-826.fis {
+  background-image: url(../flags/1x1/gb.svg);
+}
+
+.fi-gd, .fi-grd, .fi-308 {
+  background-image: url(../flags/4x3/gd.svg);
+}
+.fi-gd.fis, .fi-grd.fis, .fi-308.fis {
+  background-image: url(../flags/1x1/gd.svg);
+}
+
+.fi-ge, .fi-geo, .fi-268 {
+  background-image: url(../flags/4x3/ge.svg);
+}
+.fi-ge.fis, .fi-geo.fis, .fi-268.fis {
+  background-image: url(../flags/1x1/ge.svg);
+}
+
+.fi-gf, .fi-guf, .fi-254 {
+  background-image: url(../flags/4x3/gf.svg);
+}
+.fi-gf.fis, .fi-guf.fis, .fi-254.fis {
+  background-image: url(../flags/1x1/gf.svg);
+}
+
+.fi-gg, .fi-ggy, .fi-831 {
+  background-image: url(../flags/4x3/gg.svg);
+}
+.fi-gg.fis, .fi-ggy.fis, .fi-831.fis {
+  background-image: url(../flags/1x1/gg.svg);
+}
+
+.fi-gh, .fi-gha, .fi-288 {
+  background-image: url(../flags/4x3/gh.svg);
+}
+.fi-gh.fis, .fi-gha.fis, .fi-288.fis {
+  background-image: url(../flags/1x1/gh.svg);
+}
+
+.fi-gi, .fi-gib, .fi-292 {
+  background-image: url(../flags/4x3/gi.svg);
+}
+.fi-gi.fis, .fi-gib.fis, .fi-292.fis {
+  background-image: url(../flags/1x1/gi.svg);
+}
+
+.fi-gl, .fi-grl, .fi-304 {
+  background-image: url(../flags/4x3/gl.svg);
+}
+.fi-gl.fis, .fi-grl.fis, .fi-304.fis {
+  background-image: url(../flags/1x1/gl.svg);
+}
+
+.fi-gm, .fi-gmb, .fi-270 {
+  background-image: url(../flags/4x3/gm.svg);
+}
+.fi-gm.fis, .fi-gmb.fis, .fi-270.fis {
+  background-image: url(../flags/1x1/gm.svg);
+}
+
+.fi-gn, .fi-gin, .fi-324 {
+  background-image: url(../flags/4x3/gn.svg);
+}
+.fi-gn.fis, .fi-gin.fis, .fi-324.fis {
+  background-image: url(../flags/1x1/gn.svg);
+}
+
+.fi-gp, .fi-glp, .fi-312 {
+  background-image: url(../flags/4x3/gp.svg);
+}
+.fi-gp.fis, .fi-glp.fis, .fi-312.fis {
+  background-image: url(../flags/1x1/gp.svg);
+}
+
+.fi-gq, .fi-gnq, .fi-226 {
+  background-image: url(../flags/4x3/gq.svg);
+}
+.fi-gq.fis, .fi-gnq.fis, .fi-226.fis {
+  background-image: url(../flags/1x1/gq.svg);
+}
+
+.fi-gr, .fi-grc, .fi-300 {
+  background-image: url(../flags/4x3/gr.svg);
+}
+.fi-gr.fis, .fi-grc.fis, .fi-300.fis {
+  background-image: url(../flags/1x1/gr.svg);
+}
+
+.fi-gs, .fi-sgs, .fi-239 {
+  background-image: url(../flags/4x3/gs.svg);
+}
+.fi-gs.fis, .fi-sgs.fis, .fi-239.fis {
+  background-image: url(../flags/1x1/gs.svg);
+}
+
+.fi-gt, .fi-gtm, .fi-320 {
+  background-image: url(../flags/4x3/gt.svg);
+}
+.fi-gt.fis, .fi-gtm.fis, .fi-320.fis {
+  background-image: url(../flags/1x1/gt.svg);
+}
+
+.fi-gu, .fi-gum, .fi-316 {
+  background-image: url(../flags/4x3/gu.svg);
+}
+.fi-gu.fis, .fi-gum.fis, .fi-316.fis {
+  background-image: url(../flags/1x1/gu.svg);
+}
+
+.fi-gw, .fi-gnb, .fi-624 {
+  background-image: url(../flags/4x3/gw.svg);
+}
+.fi-gw.fis, .fi-gnb.fis, .fi-624.fis {
+  background-image: url(../flags/1x1/gw.svg);
+}
+
+.fi-gy, .fi-guy, .fi-328 {
+  background-image: url(../flags/4x3/gy.svg);
+}
+.fi-gy.fis, .fi-guy.fis, .fi-328.fis {
+  background-image: url(../flags/1x1/gy.svg);
+}
+
+.fi-hk, .fi-hkg, .fi-344 {
+  background-image: url(../flags/4x3/hk.svg);
+}
+.fi-hk.fis, .fi-hkg.fis, .fi-344.fis {
+  background-image: url(../flags/1x1/hk.svg);
+}
+
+.fi-hm, .fi-hmd, .fi-334 {
+  background-image: url(../flags/4x3/hm.svg);
+}
+.fi-hm.fis, .fi-hmd.fis, .fi-334.fis {
+  background-image: url(../flags/1x1/hm.svg);
+}
+
+.fi-hn, .fi-hnd, .fi-340 {
+  background-image: url(../flags/4x3/hn.svg);
+}
+.fi-hn.fis, .fi-hnd.fis, .fi-340.fis {
+  background-image: url(../flags/1x1/hn.svg);
+}
+
+.fi-hr, .fi-hrv, .fi-191 {
+  background-image: url(../flags/4x3/hr.svg);
+}
+.fi-hr.fis, .fi-hrv.fis, .fi-191.fis {
+  background-image: url(../flags/1x1/hr.svg);
+}
+
+.fi-ht, .fi-hti, .fi-332 {
+  background-image: url(../flags/4x3/ht.svg);
+}
+.fi-ht.fis, .fi-hti.fis, .fi-332.fis {
+  background-image: url(../flags/1x1/ht.svg);
+}
+
+.fi-hu, .fi-hun, .fi-348 {
+  background-image: url(../flags/4x3/hu.svg);
+}
+.fi-hu.fis, .fi-hun.fis, .fi-348.fis {
+  background-image: url(../flags/1x1/hu.svg);
+}
+
+.fi-id, .fi-idn, .fi-360 {
+  background-image: url(../flags/4x3/id.svg);
+}
+.fi-id.fis, .fi-idn.fis, .fi-360.fis {
+  background-image: url(../flags/1x1/id.svg);
+}
+
+.fi-ie, .fi-irl, .fi-372 {
+  background-image: url(../flags/4x3/ie.svg);
+}
+.fi-ie.fis, .fi-irl.fis, .fi-372.fis {
+  background-image: url(../flags/1x1/ie.svg);
+}
+
+.fi-il, .fi-isr, .fi-376 {
+  background-image: url(../flags/4x3/il.svg);
+}
+.fi-il.fis, .fi-isr.fis, .fi-376.fis {
+  background-image: url(../flags/1x1/il.svg);
+}
+
+.fi-im, .fi-imn, .fi-833 {
+  background-image: url(../flags/4x3/im.svg);
+}
+.fi-im.fis, .fi-imn.fis, .fi-833.fis {
+  background-image: url(../flags/1x1/im.svg);
+}
+
+.fi-in, .fi-ind, .fi-356 {
+  background-image: url(../flags/4x3/in.svg);
+}
+.fi-in.fis, .fi-ind.fis, .fi-356.fis {
+  background-image: url(../flags/1x1/in.svg);
+}
+
+.fi-io, .fi-iot, .fi-086 {
+  background-image: url(../flags/4x3/io.svg);
+}
+.fi-io.fis, .fi-iot.fis, .fi-086.fis {
+  background-image: url(../flags/1x1/io.svg);
+}
+
+.fi-iq, .fi-irq, .fi-368 {
+  background-image: url(../flags/4x3/iq.svg);
+}
+.fi-iq.fis, .fi-irq.fis, .fi-368.fis {
+  background-image: url(../flags/1x1/iq.svg);
+}
+
+.fi-ir, .fi-irn, .fi-364 {
+  background-image: url(../flags/4x3/ir.svg);
+}
+.fi-ir.fis, .fi-irn.fis, .fi-364.fis {
+  background-image: url(../flags/1x1/ir.svg);
+}
+
+.fi-is, .fi-isl, .fi-352 {
+  background-image: url(../flags/4x3/is.svg);
+}
+.fi-is.fis, .fi-isl.fis, .fi-352.fis {
+  background-image: url(../flags/1x1/is.svg);
+}
+
+.fi-it, .fi-ita, .fi-380 {
+  background-image: url(../flags/4x3/it.svg);
+}
+.fi-it.fis, .fi-ita.fis, .fi-380.fis {
+  background-image: url(../flags/1x1/it.svg);
+}
+
+.fi-je, .fi-jey, .fi-832 {
+  background-image: url(../flags/4x3/je.svg);
+}
+.fi-je.fis, .fi-jey.fis, .fi-832.fis {
+  background-image: url(../flags/1x1/je.svg);
+}
+
+.fi-jm, .fi-jam, .fi-388 {
+  background-image: url(../flags/4x3/jm.svg);
+}
+.fi-jm.fis, .fi-jam.fis, .fi-388.fis {
+  background-image: url(../flags/1x1/jm.svg);
+}
+
+.fi-jo, .fi-jor, .fi-400 {
+  background-image: url(../flags/4x3/jo.svg);
+}
+.fi-jo.fis, .fi-jor.fis, .fi-400.fis {
+  background-image: url(../flags/1x1/jo.svg);
+}
+
+.fi-jp, .fi-jpn, .fi-392 {
+  background-image: url(../flags/4x3/jp.svg);
+}
+.fi-jp.fis, .fi-jpn.fis, .fi-392.fis {
+  background-image: url(../flags/1x1/jp.svg);
+}
+
+.fi-ke, .fi-ken, .fi-404 {
+  background-image: url(../flags/4x3/ke.svg);
+}
+.fi-ke.fis, .fi-ken.fis, .fi-404.fis {
+  background-image: url(../flags/1x1/ke.svg);
+}
+
+.fi-kg, .fi-kgz, .fi-417 {
+  background-image: url(../flags/4x3/kg.svg);
+}
+.fi-kg.fis, .fi-kgz.fis, .fi-417.fis {
+  background-image: url(../flags/1x1/kg.svg);
+}
+
+.fi-kh, .fi-khm, .fi-116 {
+  background-image: url(../flags/4x3/kh.svg);
+}
+.fi-kh.fis, .fi-khm.fis, .fi-116.fis {
+  background-image: url(../flags/1x1/kh.svg);
+}
+
+.fi-ki, .fi-kir, .fi-296 {
+  background-image: url(../flags/4x3/ki.svg);
+}
+.fi-ki.fis, .fi-kir.fis, .fi-296.fis {
+  background-image: url(../flags/1x1/ki.svg);
+}
+
+.fi-km, .fi-com, .fi-174 {
+  background-image: url(../flags/4x3/km.svg);
+}
+.fi-km.fis, .fi-com.fis, .fi-174.fis {
+  background-image: url(../flags/1x1/km.svg);
+}
+
+.fi-kn, .fi-kna, .fi-659 {
+  background-image: url(../flags/4x3/kn.svg);
+}
+.fi-kn.fis, .fi-kna.fis, .fi-659.fis {
+  background-image: url(../flags/1x1/kn.svg);
+}
+
+.fi-kp, .fi-prk, .fi-408 {
+  background-image: url(../flags/4x3/kp.svg);
+}
+.fi-kp.fis, .fi-prk.fis, .fi-408.fis {
+  background-image: url(../flags/1x1/kp.svg);
+}
+
+.fi-kr, .fi-kor, .fi-410 {
+  background-image: url(../flags/4x3/kr.svg);
+}
+.fi-kr.fis, .fi-kor.fis, .fi-410.fis {
+  background-image: url(../flags/1x1/kr.svg);
+}
+
+.fi-kw, .fi-kwt, .fi-414 {
+  background-image: url(../flags/4x3/kw.svg);
+}
+.fi-kw.fis, .fi-kwt.fis, .fi-414.fis {
+  background-image: url(../flags/1x1/kw.svg);
+}
+
+.fi-ky, .fi-cym, .fi-136 {
+  background-image: url(../flags/4x3/ky.svg);
+}
+.fi-ky.fis, .fi-cym.fis, .fi-136.fis {
+  background-image: url(../flags/1x1/ky.svg);
+}
+
+.fi-kz, .fi-kaz, .fi-398 {
+  background-image: url(../flags/4x3/kz.svg);
+}
+.fi-kz.fis, .fi-kaz.fis, .fi-398.fis {
+  background-image: url(../flags/1x1/kz.svg);
+}
+
+.fi-la, .fi-lao, .fi-418 {
+  background-image: url(../flags/4x3/la.svg);
+}
+.fi-la.fis, .fi-lao.fis, .fi-418.fis {
+  background-image: url(../flags/1x1/la.svg);
+}
+
+.fi-lb, .fi-lbn, .fi-422 {
+  background-image: url(../flags/4x3/lb.svg);
+}
+.fi-lb.fis, .fi-lbn.fis, .fi-422.fis {
+  background-image: url(../flags/1x1/lb.svg);
+}
+
+.fi-lc, .fi-lca, .fi-662 {
+  background-image: url(../flags/4x3/lc.svg);
+}
+.fi-lc.fis, .fi-lca.fis, .fi-662.fis {
+  background-image: url(../flags/1x1/lc.svg);
+}
+
+.fi-li, .fi-lie, .fi-438 {
+  background-image: url(../flags/4x3/li.svg);
+}
+.fi-li.fis, .fi-lie.fis, .fi-438.fis {
+  background-image: url(../flags/1x1/li.svg);
+}
+
+.fi-lk, .fi-lka, .fi-144 {
+  background-image: url(../flags/4x3/lk.svg);
+}
+.fi-lk.fis, .fi-lka.fis, .fi-144.fis {
+  background-image: url(../flags/1x1/lk.svg);
+}
+
+.fi-lr, .fi-lbr, .fi-430 {
+  background-image: url(../flags/4x3/lr.svg);
+}
+.fi-lr.fis, .fi-lbr.fis, .fi-430.fis {
+  background-image: url(../flags/1x1/lr.svg);
+}
+
+.fi-ls, .fi-lso, .fi-426 {
+  background-image: url(../flags/4x3/ls.svg);
+}
+.fi-ls.fis, .fi-lso.fis, .fi-426.fis {
+  background-image: url(../flags/1x1/ls.svg);
+}
+
+.fi-lt, .fi-ltu, .fi-440 {
+  background-image: url(../flags/4x3/lt.svg);
+}
+.fi-lt.fis, .fi-ltu.fis, .fi-440.fis {
+  background-image: url(../flags/1x1/lt.svg);
+}
+
+.fi-lu, .fi-lux, .fi-442 {
+  background-image: url(../flags/4x3/lu.svg);
+}
+.fi-lu.fis, .fi-lux.fis, .fi-442.fis {
+  background-image: url(../flags/1x1/lu.svg);
+}
+
+.fi-lv, .fi-lva, .fi-428 {
+  background-image: url(../flags/4x3/lv.svg);
+}
+.fi-lv.fis, .fi-lva.fis, .fi-428.fis {
+  background-image: url(../flags/1x1/lv.svg);
+}
+
+.fi-ly, .fi-lby, .fi-434 {
+  background-image: url(../flags/4x3/ly.svg);
+}
+.fi-ly.fis, .fi-lby.fis, .fi-434.fis {
+  background-image: url(../flags/1x1/ly.svg);
+}
+
+.fi-ma, .fi-mar, .fi-504 {
+  background-image: url(../flags/4x3/ma.svg);
+}
+.fi-ma.fis, .fi-mar.fis, .fi-504.fis {
+  background-image: url(../flags/1x1/ma.svg);
+}
+
+.fi-mc, .fi-mco, .fi-492 {
+  background-image: url(../flags/4x3/mc.svg);
+}
+.fi-mc.fis, .fi-mco.fis, .fi-492.fis {
+  background-image: url(../flags/1x1/mc.svg);
+}
+
+.fi-md, .fi-mda, .fi-498 {
+  background-image: url(../flags/4x3/md.svg);
+}
+.fi-md.fis, .fi-mda.fis, .fi-498.fis {
+  background-image: url(../flags/1x1/md.svg);
+}
+
+.fi-me, .fi-mne, .fi-499 {
+  background-image: url(../flags/4x3/me.svg);
+}
+.fi-me.fis, .fi-mne.fis, .fi-499.fis {
+  background-image: url(../flags/1x1/me.svg);
+}
+
+.fi-mf, .fi-maf, .fi-663 {
+  background-image: url(../flags/4x3/mf.svg);
+}
+.fi-mf.fis, .fi-maf.fis, .fi-663.fis {
+  background-image: url(../flags/1x1/mf.svg);
+}
+
+.fi-mg, .fi-mdg, .fi-450 {
+  background-image: url(../flags/4x3/mg.svg);
+}
+.fi-mg.fis, .fi-mdg.fis, .fi-450.fis {
+  background-image: url(../flags/1x1/mg.svg);
+}
+
+.fi-mh, .fi-mhl, .fi-584 {
+  background-image: url(../flags/4x3/mh.svg);
+}
+.fi-mh.fis, .fi-mhl.fis, .fi-584.fis {
+  background-image: url(../flags/1x1/mh.svg);
+}
+
+.fi-mk, .fi-mkd, .fi-807 {
+  background-image: url(../flags/4x3/mk.svg);
+}
+.fi-mk.fis, .fi-mkd.fis, .fi-807.fis {
+  background-image: url(../flags/1x1/mk.svg);
+}
+
+.fi-ml, .fi-mli, .fi-466 {
+  background-image: url(../flags/4x3/ml.svg);
+}
+.fi-ml.fis, .fi-mli.fis, .fi-466.fis {
+  background-image: url(../flags/1x1/ml.svg);
+}
+
+.fi-mm, .fi-mmr, .fi-104 {
+  background-image: url(../flags/4x3/mm.svg);
+}
+.fi-mm.fis, .fi-mmr.fis, .fi-104.fis {
+  background-image: url(../flags/1x1/mm.svg);
+}
+
+.fi-mn, .fi-mng, .fi-496 {
+  background-image: url(../flags/4x3/mn.svg);
+}
+.fi-mn.fis, .fi-mng.fis, .fi-496.fis {
+  background-image: url(../flags/1x1/mn.svg);
+}
+
+.fi-mo, .fi-mac, .fi-446 {
+  background-image: url(../flags/4x3/mo.svg);
+}
+.fi-mo.fis, .fi-mac.fis, .fi-446.fis {
+  background-image: url(../flags/1x1/mo.svg);
+}
+
+.fi-mp, .fi-mnp, .fi-580 {
+  background-image: url(../flags/4x3/mp.svg);
+}
+.fi-mp.fis, .fi-mnp.fis, .fi-580.fis {
+  background-image: url(../flags/1x1/mp.svg);
+}
+
+.fi-mq, .fi-mtq, .fi-474 {
+  background-image: url(../flags/4x3/mq.svg);
+}
+.fi-mq.fis, .fi-mtq.fis, .fi-474.fis {
+  background-image: url(../flags/1x1/mq.svg);
+}
+
+.fi-mr, .fi-mrt, .fi-478 {
+  background-image: url(../flags/4x3/mr.svg);
+}
+.fi-mr.fis, .fi-mrt.fis, .fi-478.fis {
+  background-image: url(../flags/1x1/mr.svg);
+}
+
+.fi-ms, .fi-msr, .fi-500 {
+  background-image: url(../flags/4x3/ms.svg);
+}
+.fi-ms.fis, .fi-msr.fis, .fi-500.fis {
+  background-image: url(../flags/1x1/ms.svg);
+}
+
+.fi-mt, .fi-mlt, .fi-470 {
+  background-image: url(../flags/4x3/mt.svg);
+}
+.fi-mt.fis, .fi-mlt.fis, .fi-470.fis {
+  background-image: url(../flags/1x1/mt.svg);
+}
+
+.fi-mu, .fi-mus, .fi-480 {
+  background-image: url(../flags/4x3/mu.svg);
+}
+.fi-mu.fis, .fi-mus.fis, .fi-480.fis {
+  background-image: url(../flags/1x1/mu.svg);
+}
+
+.fi-mv, .fi-mdv, .fi-462 {
+  background-image: url(../flags/4x3/mv.svg);
+}
+.fi-mv.fis, .fi-mdv.fis, .fi-462.fis {
+  background-image: url(../flags/1x1/mv.svg);
+}
+
+.fi-mw, .fi-mwi, .fi-454 {
+  background-image: url(../flags/4x3/mw.svg);
+}
+.fi-mw.fis, .fi-mwi.fis, .fi-454.fis {
+  background-image: url(../flags/1x1/mw.svg);
+}
+
+.fi-mx, .fi-mex, .fi-484 {
+  background-image: url(../flags/4x3/mx.svg);
+}
+.fi-mx.fis, .fi-mex.fis, .fi-484.fis {
+  background-image: url(../flags/1x1/mx.svg);
+}
+
+.fi-my, .fi-mys, .fi-458 {
+  background-image: url(../flags/4x3/my.svg);
+}
+.fi-my.fis, .fi-mys.fis, .fi-458.fis {
+  background-image: url(../flags/1x1/my.svg);
+}
+
+.fi-mz, .fi-moz, .fi-508 {
+  background-image: url(../flags/4x3/mz.svg);
+}
+.fi-mz.fis, .fi-moz.fis, .fi-508.fis {
+  background-image: url(../flags/1x1/mz.svg);
+}
+
+.fi-na, .fi-nam, .fi-516 {
+  background-image: url(../flags/4x3/na.svg);
+}
+.fi-na.fis, .fi-nam.fis, .fi-516.fis {
+  background-image: url(../flags/1x1/na.svg);
+}
+
+.fi-nc, .fi-ncl, .fi-540 {
+  background-image: url(../flags/4x3/nc.svg);
+}
+.fi-nc.fis, .fi-ncl.fis, .fi-540.fis {
+  background-image: url(../flags/1x1/nc.svg);
+}
+
+.fi-ne, .fi-ner, .fi-562 {
+  background-image: url(../flags/4x3/ne.svg);
+}
+.fi-ne.fis, .fi-ner.fis, .fi-562.fis {
+  background-image: url(../flags/1x1/ne.svg);
+}
+
+.fi-nf, .fi-nfk, .fi-574 {
+  background-image: url(../flags/4x3/nf.svg);
+}
+.fi-nf.fis, .fi-nfk.fis, .fi-574.fis {
+  background-image: url(../flags/1x1/nf.svg);
+}
+
+.fi-ng, .fi-nga, .fi-566 {
+  background-image: url(../flags/4x3/ng.svg);
+}
+.fi-ng.fis, .fi-nga.fis, .fi-566.fis {
+  background-image: url(../flags/1x1/ng.svg);
+}
+
+.fi-ni, .fi-nic, .fi-558 {
+  background-image: url(../flags/4x3/ni.svg);
+}
+.fi-ni.fis, .fi-nic.fis, .fi-558.fis {
+  background-image: url(../flags/1x1/ni.svg);
+}
+
+.fi-nl, .fi-nld, .fi-528 {
+  background-image: url(../flags/4x3/nl.svg);
+}
+.fi-nl.fis, .fi-nld.fis, .fi-528.fis {
+  background-image: url(../flags/1x1/nl.svg);
+}
+
+.fi-no, .fi-nor, .fi-578 {
+  background-image: url(../flags/4x3/no.svg);
+}
+.fi-no.fis, .fi-nor.fis, .fi-578.fis {
+  background-image: url(../flags/1x1/no.svg);
+}
+
+.fi-np, .fi-npl, .fi-524 {
+  background-image: url(../flags/4x3/np.svg);
+}
+.fi-np.fis, .fi-npl.fis, .fi-524.fis {
+  background-image: url(../flags/1x1/np.svg);
+}
+
+.fi-nr, .fi-nru, .fi-520 {
+  background-image: url(../flags/4x3/nr.svg);
+}
+.fi-nr.fis, .fi-nru.fis, .fi-520.fis {
+  background-image: url(../flags/1x1/nr.svg);
+}
+
+.fi-nu, .fi-niu, .fi-570 {
+  background-image: url(../flags/4x3/nu.svg);
+}
+.fi-nu.fis, .fi-niu.fis, .fi-570.fis {
+  background-image: url(../flags/1x1/nu.svg);
+}
+
+.fi-nz, .fi-nzl, .fi-554 {
+  background-image: url(../flags/4x3/nz.svg);
+}
+.fi-nz.fis, .fi-nzl.fis, .fi-554.fis {
+  background-image: url(../flags/1x1/nz.svg);
+}
+
+.fi-om, .fi-omn, .fi-512 {
+  background-image: url(../flags/4x3/om.svg);
+}
+.fi-om.fis, .fi-omn.fis, .fi-512.fis {
+  background-image: url(../flags/1x1/om.svg);
+}
+
+.fi-pa, .fi-pan, .fi-591 {
+  background-image: url(../flags/4x3/pa.svg);
+}
+.fi-pa.fis, .fi-pan.fis, .fi-591.fis {
+  background-image: url(../flags/1x1/pa.svg);
+}
+
+.fi-pe, .fi-per, .fi-604 {
+  background-image: url(../flags/4x3/pe.svg);
+}
+.fi-pe.fis, .fi-per.fis, .fi-604.fis {
+  background-image: url(../flags/1x1/pe.svg);
+}
+
+.fi-pf, .fi-pyf, .fi-258 {
+  background-image: url(../flags/4x3/pf.svg);
+}
+.fi-pf.fis, .fi-pyf.fis, .fi-258.fis {
+  background-image: url(../flags/1x1/pf.svg);
+}
+
+.fi-pg, .fi-png, .fi-598 {
+  background-image: url(../flags/4x3/pg.svg);
+}
+.fi-pg.fis, .fi-png.fis, .fi-598.fis {
+  background-image: url(../flags/1x1/pg.svg);
+}
+
+.fi-ph, .fi-phl, .fi-608 {
+  background-image: url(../flags/4x3/ph.svg);
+}
+.fi-ph.fis, .fi-phl.fis, .fi-608.fis {
+  background-image: url(../flags/1x1/ph.svg);
+}
+
+.fi-pk, .fi-pak, .fi-586 {
+  background-image: url(../flags/4x3/pk.svg);
+}
+.fi-pk.fis, .fi-pak.fis, .fi-586.fis {
+  background-image: url(../flags/1x1/pk.svg);
+}
+
+.fi-pl, .fi-pol, .fi-616 {
+  background-image: url(../flags/4x3/pl.svg);
+}
+.fi-pl.fis, .fi-pol.fis, .fi-616.fis {
+  background-image: url(../flags/1x1/pl.svg);
+}
+
+.fi-pm, .fi-spm, .fi-666 {
+  background-image: url(../flags/4x3/pm.svg);
+}
+.fi-pm.fis, .fi-spm.fis, .fi-666.fis {
+  background-image: url(../flags/1x1/pm.svg);
+}
+
+.fi-pn, .fi-pcn, .fi-612 {
+  background-image: url(../flags/4x3/pn.svg);
+}
+.fi-pn.fis, .fi-pcn.fis, .fi-612.fis {
+  background-image: url(../flags/1x1/pn.svg);
+}
+
+.fi-pr, .fi-pri, .fi-630 {
+  background-image: url(../flags/4x3/pr.svg);
+}
+.fi-pr.fis, .fi-pri.fis, .fi-630.fis {
+  background-image: url(../flags/1x1/pr.svg);
+}
+
+.fi-ps, .fi-pse, .fi-275 {
+  background-image: url(../flags/4x3/ps.svg);
+}
+.fi-ps.fis, .fi-pse.fis, .fi-275.fis {
+  background-image: url(../flags/1x1/ps.svg);
+}
+
+.fi-pt, .fi-prt, .fi-620 {
+  background-image: url(../flags/4x3/pt.svg);
+}
+.fi-pt.fis, .fi-prt.fis, .fi-620.fis {
+  background-image: url(../flags/1x1/pt.svg);
+}
+
+.fi-pw, .fi-plw, .fi-585 {
+  background-image: url(../flags/4x3/pw.svg);
+}
+.fi-pw.fis, .fi-plw.fis, .fi-585.fis {
+  background-image: url(../flags/1x1/pw.svg);
+}
+
+.fi-py, .fi-pry, .fi-600 {
+  background-image: url(../flags/4x3/py.svg);
+}
+.fi-py.fis, .fi-pry.fis, .fi-600.fis {
+  background-image: url(../flags/1x1/py.svg);
+}
+
+.fi-qa, .fi-qat, .fi-634 {
+  background-image: url(../flags/4x3/qa.svg);
+}
+.fi-qa.fis, .fi-qat.fis, .fi-634.fis {
+  background-image: url(../flags/1x1/qa.svg);
+}
+
+.fi-re, .fi-reu, .fi-638 {
+  background-image: url(../flags/4x3/re.svg);
+}
+.fi-re.fis, .fi-reu.fis, .fi-638.fis {
+  background-image: url(../flags/1x1/re.svg);
+}
+
+.fi-ro, .fi-rou, .fi-642 {
+  background-image: url(../flags/4x3/ro.svg);
+}
+.fi-ro.fis, .fi-rou.fis, .fi-642.fis {
+  background-image: url(../flags/1x1/ro.svg);
+}
+
+.fi-rs, .fi-srb, .fi-688 {
+  background-image: url(../flags/4x3/rs.svg);
+}
+.fi-rs.fis, .fi-srb.fis, .fi-688.fis {
+  background-image: url(../flags/1x1/rs.svg);
+}
+
+.fi-ru, .fi-rus, .fi-643 {
+  background-image: url(../flags/4x3/ru.svg);
+}
+.fi-ru.fis, .fi-rus.fis, .fi-643.fis {
+  background-image: url(../flags/1x1/ru.svg);
+}
+
+.fi-rw, .fi-rwa, .fi-646 {
+  background-image: url(../flags/4x3/rw.svg);
+}
+.fi-rw.fis, .fi-rwa.fis, .fi-646.fis {
+  background-image: url(../flags/1x1/rw.svg);
+}
+
+.fi-sa, .fi-sau, .fi-682 {
+  background-image: url(../flags/4x3/sa.svg);
+}
+.fi-sa.fis, .fi-sau.fis, .fi-682.fis {
+  background-image: url(../flags/1x1/sa.svg);
+}
+
+.fi-sb, .fi-slb, .fi-090 {
+  background-image: url(../flags/4x3/sb.svg);
+}
+.fi-sb.fis, .fi-slb.fis, .fi-090.fis {
+  background-image: url(../flags/1x1/sb.svg);
+}
+
+.fi-sc, .fi-syc, .fi-690 {
+  background-image: url(../flags/4x3/sc.svg);
+}
+.fi-sc.fis, .fi-syc.fis, .fi-690.fis {
+  background-image: url(../flags/1x1/sc.svg);
+}
+
+.fi-sd, .fi-sdn, .fi-729 {
+  background-image: url(../flags/4x3/sd.svg);
+}
+.fi-sd.fis, .fi-sdn.fis, .fi-729.fis {
+  background-image: url(../flags/1x1/sd.svg);
+}
+
+.fi-se, .fi-swe, .fi-752 {
+  background-image: url(../flags/4x3/se.svg);
+}
+.fi-se.fis, .fi-swe.fis, .fi-752.fis {
+  background-image: url(../flags/1x1/se.svg);
+}
+
+.fi-sg, .fi-sgp, .fi-702 {
+  background-image: url(../flags/4x3/sg.svg);
+}
+.fi-sg.fis, .fi-sgp.fis, .fi-702.fis {
+  background-image: url(../flags/1x1/sg.svg);
+}
+
+.fi-sh, .fi-shn, .fi-654 {
+  background-image: url(../flags/4x3/sh.svg);
+}
+.fi-sh.fis, .fi-shn.fis, .fi-654.fis {
+  background-image: url(../flags/1x1/sh.svg);
+}
+
+.fi-si, .fi-svn, .fi-705 {
+  background-image: url(../flags/4x3/si.svg);
+}
+.fi-si.fis, .fi-svn.fis, .fi-705.fis {
+  background-image: url(../flags/1x1/si.svg);
+}
+
+.fi-sj, .fi-sjm, .fi-744 {
+  background-image: url(../flags/4x3/sj.svg);
+}
+.fi-sj.fis, .fi-sjm.fis, .fi-744.fis {
+  background-image: url(../flags/1x1/sj.svg);
+}
+
+.fi-sk, .fi-svk, .fi-703 {
+  background-image: url(../flags/4x3/sk.svg);
+}
+.fi-sk.fis, .fi-svk.fis, .fi-703.fis {
+  background-image: url(../flags/1x1/sk.svg);
+}
+
+.fi-sl, .fi-sle, .fi-694 {
+  background-image: url(../flags/4x3/sl.svg);
+}
+.fi-sl.fis, .fi-sle.fis, .fi-694.fis {
+  background-image: url(../flags/1x1/sl.svg);
+}
+
+.fi-sm, .fi-smr, .fi-674 {
+  background-image: url(../flags/4x3/sm.svg);
+}
+.fi-sm.fis, .fi-smr.fis, .fi-674.fis {
+  background-image: url(../flags/1x1/sm.svg);
+}
+
+.fi-sn, .fi-sen, .fi-686 {
+  background-image: url(../flags/4x3/sn.svg);
+}
+.fi-sn.fis, .fi-sen.fis, .fi-686.fis {
+  background-image: url(../flags/1x1/sn.svg);
+}
+
+.fi-so, .fi-som, .fi-706 {
+  background-image: url(../flags/4x3/so.svg);
+}
+.fi-so.fis, .fi-som.fis, .fi-706.fis {
+  background-image: url(../flags/1x1/so.svg);
+}
+
+.fi-sr, .fi-sur, .fi-740 {
+  background-image: url(../flags/4x3/sr.svg);
+}
+.fi-sr.fis, .fi-sur.fis, .fi-740.fis {
+  background-image: url(../flags/1x1/sr.svg);
+}
+
+.fi-ss, .fi-ssd, .fi-728 {
+  background-image: url(../flags/4x3/ss.svg);
+}
+.fi-ss.fis, .fi-ssd.fis, .fi-728.fis {
+  background-image: url(../flags/1x1/ss.svg);
+}
+
+.fi-st, .fi-stp, .fi-678 {
+  background-image: url(../flags/4x3/st.svg);
+}
+.fi-st.fis, .fi-stp.fis, .fi-678.fis {
+  background-image: url(../flags/1x1/st.svg);
+}
+
+.fi-sv, .fi-slv, .fi-222 {
+  background-image: url(../flags/4x3/sv.svg);
+}
+.fi-sv.fis, .fi-slv.fis, .fi-222.fis {
+  background-image: url(../flags/1x1/sv.svg);
+}
+
+.fi-sx, .fi-sxm, .fi-534 {
+  background-image: url(../flags/4x3/sx.svg);
+}
+.fi-sx.fis, .fi-sxm.fis, .fi-534.fis {
+  background-image: url(../flags/1x1/sx.svg);
+}
+
+.fi-sy, .fi-syr, .fi-760 {
+  background-image: url(../flags/4x3/sy.svg);
+}
+.fi-sy.fis, .fi-syr.fis, .fi-760.fis {
+  background-image: url(../flags/1x1/sy.svg);
+}
+
+.fi-sz, .fi-swz, .fi-748 {
+  background-image: url(../flags/4x3/sz.svg);
+}
+.fi-sz.fis, .fi-swz.fis, .fi-748.fis {
+  background-image: url(../flags/1x1/sz.svg);
+}
+
+.fi-tc, .fi-tca, .fi-796 {
+  background-image: url(../flags/4x3/tc.svg);
+}
+.fi-tc.fis, .fi-tca.fis, .fi-796.fis {
+  background-image: url(../flags/1x1/tc.svg);
+}
+
+.fi-td, .fi-tcd, .fi-148 {
+  background-image: url(../flags/4x3/td.svg);
+}
+.fi-td.fis, .fi-tcd.fis, .fi-148.fis {
+  background-image: url(../flags/1x1/td.svg);
+}
+
+.fi-tf, .fi-atf, .fi-260 {
+  background-image: url(../flags/4x3/tf.svg);
+}
+.fi-tf.fis, .fi-atf.fis, .fi-260.fis {
+  background-image: url(../flags/1x1/tf.svg);
+}
+
+.fi-tg, .fi-tgo, .fi-768 {
+  background-image: url(../flags/4x3/tg.svg);
+}
+.fi-tg.fis, .fi-tgo.fis, .fi-768.fis {
+  background-image: url(../flags/1x1/tg.svg);
+}
+
+.fi-th, .fi-tha, .fi-764 {
+  background-image: url(../flags/4x3/th.svg);
+}
+.fi-th.fis, .fi-tha.fis, .fi-764.fis {
+  background-image: url(../flags/1x1/th.svg);
+}
+
+.fi-tj, .fi-tjk, .fi-762 {
+  background-image: url(../flags/4x3/tj.svg);
+}
+.fi-tj.fis, .fi-tjk.fis, .fi-762.fis {
+  background-image: url(../flags/1x1/tj.svg);
+}
+
+.fi-tk, .fi-tkl, .fi-772 {
+  background-image: url(../flags/4x3/tk.svg);
+}
+.fi-tk.fis, .fi-tkl.fis, .fi-772.fis {
+  background-image: url(../flags/1x1/tk.svg);
+}
+
+.fi-tl, .fi-tls, .fi-626 {
+  background-image: url(../flags/4x3/tl.svg);
+}
+.fi-tl.fis, .fi-tls.fis, .fi-626.fis {
+  background-image: url(../flags/1x1/tl.svg);
+}
+
+.fi-tm, .fi-tkm, .fi-795 {
+  background-image: url(../flags/4x3/tm.svg);
+}
+.fi-tm.fis, .fi-tkm.fis, .fi-795.fis {
+  background-image: url(../flags/1x1/tm.svg);
+}
+
+.fi-tn, .fi-tun, .fi-788 {
+  background-image: url(../flags/4x3/tn.svg);
+}
+.fi-tn.fis, .fi-tun.fis, .fi-788.fis {
+  background-image: url(../flags/1x1/tn.svg);
+}
+
+.fi-to, .fi-ton, .fi-776 {
+  background-image: url(../flags/4x3/to.svg);
+}
+.fi-to.fis, .fi-ton.fis, .fi-776.fis {
+  background-image: url(../flags/1x1/to.svg);
+}
+
+.fi-tr, .fi-tur, .fi-792 {
+  background-image: url(../flags/4x3/tr.svg);
+}
+.fi-tr.fis, .fi-tur.fis, .fi-792.fis {
+  background-image: url(../flags/1x1/tr.svg);
+}
+
+.fi-tt, .fi-tto, .fi-780 {
+  background-image: url(../flags/4x3/tt.svg);
+}
+.fi-tt.fis, .fi-tto.fis, .fi-780.fis {
+  background-image: url(../flags/1x1/tt.svg);
+}
+
+.fi-tv, .fi-tuv, .fi-798 {
+  background-image: url(../flags/4x3/tv.svg);
+}
+.fi-tv.fis, .fi-tuv.fis, .fi-798.fis {
+  background-image: url(../flags/1x1/tv.svg);
+}
+
+.fi-tw, .fi-twn, .fi-158 {
+  background-image: url(../flags/4x3/tw.svg);
+}
+.fi-tw.fis, .fi-twn.fis, .fi-158.fis {
+  background-image: url(../flags/1x1/tw.svg);
+}
+
+.fi-tz, .fi-tza, .fi-834 {
+  background-image: url(../flags/4x3/tz.svg);
+}
+.fi-tz.fis, .fi-tza.fis, .fi-834.fis {
+  background-image: url(../flags/1x1/tz.svg);
+}
+
+.fi-ua, .fi-ukr, .fi-804 {
+  background-image: url(../flags/4x3/ua.svg);
+}
+.fi-ua.fis, .fi-ukr.fis, .fi-804.fis {
+  background-image: url(../flags/1x1/ua.svg);
+}
+
+.fi-ug, .fi-uga, .fi-800 {
+  background-image: url(../flags/4x3/ug.svg);
+}
+.fi-ug.fis, .fi-uga.fis, .fi-800.fis {
+  background-image: url(../flags/1x1/ug.svg);
+}
+
+.fi-um, .fi-umi, .fi-581 {
+  background-image: url(../flags/4x3/um.svg);
+}
+.fi-um.fis, .fi-umi.fis, .fi-581.fis {
+  background-image: url(../flags/1x1/um.svg);
+}
+
+.fi-us, .fi-usa, .fi-840 {
+  background-image: url(../flags/4x3/us.svg);
+}
+.fi-us.fis, .fi-usa.fis, .fi-840.fis {
+  background-image: url(../flags/1x1/us.svg);
+}
+
+.fi-uy, .fi-ury, .fi-858 {
+  background-image: url(../flags/4x3/uy.svg);
+}
+.fi-uy.fis, .fi-ury.fis, .fi-858.fis {
+  background-image: url(../flags/1x1/uy.svg);
+}
+
+.fi-uz, .fi-uzb, .fi-860 {
+  background-image: url(../flags/4x3/uz.svg);
+}
+.fi-uz.fis, .fi-uzb.fis, .fi-860.fis {
+  background-image: url(../flags/1x1/uz.svg);
+}
+
+.fi-va, .fi-vat, .fi-336 {
+  background-image: url(../flags/4x3/va.svg);
+}
+.fi-va.fis, .fi-vat.fis, .fi-336.fis {
+  background-image: url(../flags/1x1/va.svg);
+}
+
+.fi-vc, .fi-vct, .fi-670 {
+  background-image: url(../flags/4x3/vc.svg);
+}
+.fi-vc.fis, .fi-vct.fis, .fi-670.fis {
+  background-image: url(../flags/1x1/vc.svg);
+}
+
+.fi-ve, .fi-ven, .fi-862 {
+  background-image: url(../flags/4x3/ve.svg);
+}
+.fi-ve.fis, .fi-ven.fis, .fi-862.fis {
+  background-image: url(../flags/1x1/ve.svg);
+}
+
+.fi-vg, .fi-vgb, .fi-092 {
+  background-image: url(../flags/4x3/vg.svg);
+}
+.fi-vg.fis, .fi-vgb.fis, .fi-092.fis {
+  background-image: url(../flags/1x1/vg.svg);
+}
+
+.fi-vi, .fi-vir, .fi-850 {
+  background-image: url(../flags/4x3/vi.svg);
+}
+.fi-vi.fis, .fi-vir.fis, .fi-850.fis {
+  background-image: url(../flags/1x1/vi.svg);
+}
+
+.fi-vn, .fi-vnm, .fi-704 {
+  background-image: url(../flags/4x3/vn.svg);
+}
+.fi-vn.fis, .fi-vnm.fis, .fi-704.fis {
+  background-image: url(../flags/1x1/vn.svg);
+}
+
+.fi-vu, .fi-vut, .fi-548 {
+  background-image: url(../flags/4x3/vu.svg);
+}
+.fi-vu.fis, .fi-vut.fis, .fi-548.fis {
+  background-image: url(../flags/1x1/vu.svg);
+}
+
+.fi-wf, .fi-wlf, .fi-876 {
+  background-image: url(../flags/4x3/wf.svg);
+}
+.fi-wf.fis, .fi-wlf.fis, .fi-876.fis {
+  background-image: url(../flags/1x1/wf.svg);
+}
+
+.fi-ws, .fi-wsm, .fi-882 {
+  background-image: url(../flags/4x3/ws.svg);
+}
+.fi-ws.fis, .fi-wsm.fis, .fi-882.fis {
+  background-image: url(../flags/1x1/ws.svg);
+}
+
+.fi-ye, .fi-yem, .fi-887 {
+  background-image: url(../flags/4x3/ye.svg);
+}
+.fi-ye.fis, .fi-yem.fis, .fi-887.fis {
+  background-image: url(../flags/1x1/ye.svg);
+}
+
+.fi-yt, .fi-myt, .fi-175 {
+  background-image: url(../flags/4x3/yt.svg);
+}
+.fi-yt.fis, .fi-myt.fis, .fi-175.fis {
+  background-image: url(../flags/1x1/yt.svg);
+}
+
+.fi-za, .fi-zaf, .fi-710 {
+  background-image: url(../flags/4x3/za.svg);
+}
+.fi-za.fis, .fi-zaf.fis, .fi-710.fis {
+  background-image: url(../flags/1x1/za.svg);
+}
+
+.fi-zm, .fi-zmb, .fi-894 {
+  background-image: url(../flags/4x3/zm.svg);
+}
+.fi-zm.fis, .fi-zmb.fis, .fi-894.fis {
+  background-image: url(../flags/1x1/zm.svg);
+}
+
+.fi-zw, .fi-zwe, .fi-716 {
+  background-image: url(../flags/4x3/zw.svg);
+}
+.fi-zw.fis, .fi-zwe.fis, .fi-716.fis {
+  background-image: url(../flags/1x1/zw.svg);
+}
+
+.fi-arab {
+  background-image: url(../flags/4x3/arab.svg);
+}
+.fi-arab.fis {
+  background-image: url(../flags/1x1/arab.svg);
+}
+
+.fi-cefta {
+  background-image: url(../flags/4x3/cefta.svg);
+}
+.fi-cefta.fis {
+  background-image: url(../flags/1x1/cefta.svg);
+}
+
+.fi-cp {
+  background-image: url(../flags/4x3/cp.svg);
+}
+.fi-cp.fis {
+  background-image: url(../flags/1x1/cp.svg);
+}
+
+.fi-dg {
+  background-image: url(../flags/4x3/dg.svg);
+}
+.fi-dg.fis {
+  background-image: url(../flags/1x1/dg.svg);
+}
+
+.fi-eac {
+  background-image: url(../flags/4x3/eac.svg);
+}
+.fi-eac.fis {
+  background-image: url(../flags/1x1/eac.svg);
+}
+
+.fi-es-ct {
+  background-image: url(../flags/4x3/es-ct.svg);
+}
+.fi-es-ct.fis {
+  background-image: url(../flags/1x1/es-ct.svg);
+}
+
+.fi-es-ga {
+  background-image: url(../flags/4x3/es-ga.svg);
+}
+.fi-es-ga.fis {
+  background-image: url(../flags/1x1/es-ga.svg);
+}
+
+.fi-es-pv {
+  background-image: url(../flags/4x3/es-pv.svg);
+}
+.fi-es-pv.fis {
+  background-image: url(../flags/1x1/es-pv.svg);
+}
+
+.fi-eu {
+  background-image: url(../flags/4x3/eu.svg);
+}
+.fi-eu.fis {
+  background-image: url(../flags/1x1/eu.svg);
+}
+
+.fi-gb-eng {
+  background-image: url(../flags/4x3/gb-eng.svg);
+}
+.fi-gb-eng.fis {
+  background-image: url(../flags/1x1/gb-eng.svg);
+}
+
+.fi-gb-nir {
+  background-image: url(../flags/4x3/gb-nir.svg);
+}
+.fi-gb-nir.fis {
+  background-image: url(../flags/1x1/gb-nir.svg);
+}
+
+.fi-gb-sct {
+  background-image: url(../flags/4x3/gb-sct.svg);
+}
+.fi-gb-sct.fis {
+  background-image: url(../flags/1x1/gb-sct.svg);
+}
+
+.fi-gb-wls {
+  background-image: url(../flags/4x3/gb-wls.svg);
+}
+.fi-gb-wls.fis {
+  background-image: url(../flags/1x1/gb-wls.svg);
+}
+
+.fi-ic {
+  background-image: url(../flags/4x3/ic.svg);
+}
+.fi-ic.fis {
+  background-image: url(../flags/1x1/ic.svg);
+}
+
+.fi-pc {
+  background-image: url(../flags/4x3/pc.svg);
+}
+.fi-pc.fis {
+  background-image: url(../flags/1x1/pc.svg);
+}
+
+.fi-sh-ac {
+  background-image: url(../flags/4x3/sh-ac.svg);
+}
+.fi-sh-ac.fis {
+  background-image: url(../flags/1x1/sh-ac.svg);
+}
+
+.fi-sh-hl {
+  background-image: url(../flags/4x3/sh-hl.svg);
+}
+.fi-sh-hl.fis {
+  background-image: url(../flags/1x1/sh-hl.svg);
+}
+
+.fi-sh-ta {
+  background-image: url(../flags/4x3/sh-ta.svg);
+}
+.fi-sh-ta.fis {
+  background-image: url(../flags/1x1/sh-ta.svg);
+}
+
+.fi-un {
+  background-image: url(../flags/4x3/un.svg);
+}
+.fi-un.fis {
+  background-image: url(../flags/1x1/un.svg);
+}
+
+.fi-xk {
+  background-image: url(../flags/4x3/xk.svg);
+}
+.fi-xk.fis {
+  background-image: url(../flags/1x1/xk.svg);
+}
